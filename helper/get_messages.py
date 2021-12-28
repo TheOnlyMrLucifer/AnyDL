@@ -1,4 +1,4 @@
------------------------------------ https://github.com/TheOnlyMrLucifer/AnyDL --------------------------------------------#
+#----------------------------------- https://github.com/TheOnlyMrLucifer/AnyDL --------------------------------------------#
 
 from typing import List
 from bot import Bot
