@@ -1,13 +1,3 @@
-aiohttp
-beautifulsoup4
-hachoir
-numpy
-Pillow
-Pyrogram
-mega.py
-moviepy
-requests
-psutil
-tgcrypto
-youtube-dl
-olefile
+Pyrogram==1.1.9
+TgCrypto
+
